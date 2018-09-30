@@ -3,7 +3,7 @@
 
 # Title and tag line
 title: 'Airpup'
-description: 'The loyal little lifter.'
+description: 'Quiet, long-duration flight. Airpup is a kite balloon, not a drone. No registration required.'
 
 # Images
 avatar: 'avatar.png'
@@ -12,9 +12,11 @@ favicon: 'favicon.ico'
 
 # Online profiles
 #facebook: ''
-twitter: 'flyairpup'
+crowd-supply: 'https://www.crowdsupply.com/head-full-of-air/airpup'
+blog_url: 'https://headfullofair.com/tags/airpup'
+twitter: 'headfullofair'
 #linkedin: ''
-#instagram: ''
+instagram: 'headfullofair'
 #pinterest: ''
 #youtube: ''
 #github-user: ''
@@ -28,7 +30,6 @@ twitter: 'flyairpup'
 #tumblr: ''
 #weibo: ''
 #vk: ''
-blog_url: 'https://headfullofair.com/tags/airpup'
 #email: ''
 #messenger: ''
 
